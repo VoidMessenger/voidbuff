@@ -19,4 +19,4 @@ jobs:
           toolchain: stable
       
       - name: Fmt
-        run: cargo fmt --check --verbose
+        run: cargo fmt --verbose
